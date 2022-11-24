@@ -1,0 +1,51 @@
+[
+    {
+        "id":101,
+        "name":"Garam Masala",
+        "image":"/assets/images/spices.png",
+        "about":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam repellat aperiam facere accusantium sed ullam, neque assumenda veniam natus est ut maxime ipsum. Similique libero placeat voluptatibus tempore nemo iure nostrum est vero tempora porro! Repellendus laudantium mollitia quas necessitatibus accusamus! Doloremque voluptatibus laboriosam aperiam quidem deserunt labore vero esse!",
+        "status":"Active"
+    },
+    {
+        "id":102,
+        "name":"Hotels",
+        "image":"/assets/images/Hotels.png",
+        "about":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam repellat aperiam facere accusantium sed ullam, neque assumenda veniam natus est ut maxime ipsum. Similique libero placeat voluptatibus tempore nemo iure nostrum est vero tempora porro! Repellendus laudantium mollitia quas necessitatibus accusamus! Doloremque voluptatibus laboriosam aperiam quidem deserunt labore vero esse!",
+        "status":"Active"
+    },
+    {
+        "id":103,
+        "name":"Technology",
+        "image":"/assets/images/Technology.png",
+        "about":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam repellat aperiam facere accusantium sed ullam, neque assumenda veniam natus est ut maxime ipsum. Similique libero placeat voluptatibus tempore nemo iure nostrum est vero tempora porro! Repellendus laudantium mollitia quas necessitatibus accusamus! Doloremque voluptatibus laboriosam aperiam quidem deserunt labore vero esse!",
+        "status":"Upcoming"
+    },
+    {
+        "id":104,
+        "name":"Fmcg",
+        "image":"/assets/images/Fmcg.png",
+        "about":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam repellat aperiam facere accusantium sed ullam, neque assumenda veniam natus est ut maxime ipsum. Similique libero placeat voluptatibus tempore nemo iure nostrum est vero tempora porro! Repellendus laudantium mollitia quas necessitatibus accusamus! Doloremque voluptatibus laboriosam aperiam quidem deserunt labore vero esse!",
+        "status":"Finished"
+    },
+    {
+        "id":105,
+        "name":"Hotels",
+        "image":"/assets/images/Hotels.png",
+        "about":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam repellat aperiam facere accusantium sed ullam, neque assumenda veniam natus est ut maxime ipsum. Similique libero placeat voluptatibus tempore nemo iure nostrum est vero tempora porro! Repellendus laudantium mollitia quas necessitatibus accusamus! Doloremque voluptatibus laboriosam aperiam quidem deserunt labore vero esse!",
+        "status":"Active"
+    },
+    {
+        "id":106,
+        "name":"Hotels",
+        "image":"/assets/images/Hotels.png",
+        "about":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam repellat aperiam facere accusantium sed ullam, neque assumenda veniam natus est ut maxime ipsum. Similique libero placeat voluptatibus tempore nemo iure nostrum est vero tempora porro! Repellendus laudantium mollitia quas necessitatibus accusamus! Doloremque voluptatibus laboriosam aperiam quidem deserunt labore vero esse!",
+        "status":"Active"
+    },
+    {
+        "id":107,
+        "name":"Hotels",
+        "image":"/assets/images/Hotels.png",
+        "about":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam repellat aperiam facere accusantium sed ullam, neque assumenda veniam natus est ut maxime ipsum. Similique libero placeat voluptatibus tempore nemo iure nostrum est vero tempora porro! Repellendus laudantium mollitia quas necessitatibus accusamus! Doloremque voluptatibus laboriosam aperiam quidem deserunt labore vero esse!",
+        "status":"Active"
+    }
+]
